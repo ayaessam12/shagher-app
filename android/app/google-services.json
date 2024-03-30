@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490944099832",
+    "firebase_url": "https://shagher-53067.firebaseio.com",
+    "project_id": "shagher-53067",
+    "storage_bucket": "shagher-53067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490944099832:android:5ccda192567a22e708920d",
+        "android_client_info": {
+          "package_name": "com.example.shagher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490944099832-dhqpujhignn0t6sb3j4t8m4f8gmc55mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdyDRuCBhj04ASWhKBLUQhRXCyeazyDJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490944099832-dhqpujhignn0t6sb3j4t8m4f8gmc55mr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490944099832-1986mlavhmel1r5a0r20g3qjmffu3jdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "labs.shagher.net.shagher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
